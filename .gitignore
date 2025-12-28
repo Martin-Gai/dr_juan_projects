@@ -78,4 +78,5 @@ data/scanner_data.csv
 
 # pixi environments
 .pixi
-*.egg-info
+*.egg-info*.csv
+retailhero-uplift/data/
